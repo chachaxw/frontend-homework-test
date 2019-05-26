@@ -16,6 +16,8 @@ Aurora Content Management that can easily manage these content the user created.
 
 ## Style Guide
 
+Please open `/design/measure/index.html` in browser and check the UI layout and style guide.
+
 ## Requirements
 
 * README file is required.
