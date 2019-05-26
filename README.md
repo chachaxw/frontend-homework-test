@@ -1,7 +1,7 @@
 # Aurora Front-end Homework Test
 
 ```Note
-It was great speaking with you! As per our conversation, here's the next 
+It was great speaking with you! As per our conversation, here's the next
 step in our hiring process. Below a programming problems. Please read the descriptions
 thoroughly then create a program to solve the problems.
 ```
@@ -46,8 +46,9 @@ Please open `/design/measure/index.html` in browser and check the UI layout and 
 Note:
 
   1. We want our hiring process to be fair, and for everyone to start from the same place. To enable this, we request that you do not share or publish these problems.
-  2. Please create a new branch on the repo with named `interview/your-name` and checkout the branch to continue your homework test.
-  3. Nice to have Javascript Unit Test
+  2. We need a react developer, so please use `React` to finish the test.
+  3. Please create a new branch on the repo with named `interview/your-name` and checkout the branch to continue your homework test.
+  4. Nice to have Javascript Unit Test
 
 ```Note
 As a general rule, we allow three days from the date that you receive
