@@ -14,8 +14,8 @@ Aurora Content Management that can easily manage these content the user created.
 
 ## Interface
 
-![UI layout detail 1](https://bitbucket.org/aurorahr/frontend-homework-test/src/master/design/guide/Content_Management_1.png)
-![UI layout detail 2](https://bitbucket.org/aurorahr/frontend-homework-test/src/master/design/guide/Content_Management_2.png)
+![UI layout detail 1](https://bitbucket.org/aurorahr/frontend-homework-test/raw/6a671fbcf73fa45c0d34f23c4dbe58b4c64d0871/design/guide/Content_Management_1.png)
+![UI layout detail 2](https://bitbucket.org/aurorahr/frontend-homework-test/raw/6a671fbcf73fa45c0d34f23c4dbe58b4c64d0871/design/guide/Content_Management_2.png)
 
 ## Style Guide
 
