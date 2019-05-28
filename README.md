@@ -49,8 +49,6 @@ Note:
   2. We need a react developer, so please use `React` to finish the test.
   3. Nice to have Javascript Unit Test
 
-# Please send the work with Zip file to email `anna.simms@aurora.app`
-
 ```Note
 As a general rule, we allow three days from the date that you receive
 these instructions to submit your code, but you may request more time
@@ -60,3 +58,5 @@ as it relates to your interview process, please contact us.
 
 We welcome your arrival if you can easily complete the homework test.
 Thank you very much, good luck to you😄
+
+# Please send the work with Zip file to email `anna.simms@aurora.app`!!!
