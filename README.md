@@ -47,8 +47,9 @@ Note:
 
   1. We want our hiring process to be fair, and for everyone to start from the same place. To enable this, we request that you do not share or publish these problems.
   2. We need a react developer, so please use `React` to finish the test.
-  3. Please create a new branch on the repo with named `interview/your-name` and checkout the branch to continue your homework test.
-  4. Nice to have Javascript Unit Test
+  3. Nice to have Javascript Unit Test
+
+# Please send the work with Zip file to email `anna.simms@aurora.app`
 
 ```Note
 As a general rule, we allow three days from the date that you receive
